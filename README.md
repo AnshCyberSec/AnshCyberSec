@@ -107,3 +107,13 @@ I’m a **backend-focused Java developer** who believes:
 🚀 Growth > Hype  
 🔐 Security > Shortcuts  
 🧠 Fundamentals > Framework tricks
+
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnshCyberSec/AnshCyberSec/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnshCyberSec/AnshCyberSec/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/AnshCyberSec/AnshCyberSec/output/github-contribution-grid-snake.svg">
+</picture>
+
